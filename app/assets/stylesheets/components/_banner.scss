@@ -1,0 +1,26 @@
+.banner {
+  background-size: cover;
+  background-color: $light-peach;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: $red;
+  font-family: 'Courier Prime', monospace;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: $red;
+  font-family: 'Azeret Mono', monospace;
+  opacity: .7;
+}
+
+.content {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}

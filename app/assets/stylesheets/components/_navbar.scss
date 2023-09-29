@@ -1,0 +1,10 @@
+.navbar-jamie {
+  justify-content: space-between;
+  font-family: 'Azeret Mono', monospace;
+  color: $black;
+  font-size: 40px;
+}
+
+.navbar-jamie .navbar-collapse {
+  flex-grow: 0;
+}
